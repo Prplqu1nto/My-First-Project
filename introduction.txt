@@ -1,4 +1,5 @@
-Hi. My name is Quinto Wabwire.I study Electricsl Engineering
+Brief Introduction About Myself
 
+Hi. My name is Quinto Wabwire.I study Electricsl Engineering
 Currently,I am learning how to use Git and Github to manage my projects effectively
 
